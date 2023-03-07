@@ -11,7 +11,7 @@
 ### Database
 - AWS MySQL
 
-### Ifrastructure
+### Infrastructure
 - AWS EC2 (Amazon Linux2 AMI (HVM) - Kernal 5.10, SSD)
 
 ### Npm package for frontend
