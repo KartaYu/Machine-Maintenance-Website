@@ -50,7 +50,7 @@ DELETE   |/machine/delete-student/id     |Delete
 
 ![image](https://github.com/KartaYu/Machine-Maintenance-Website/blob/main/Pic/Form_Page.png)
 
--This page is the current maintenance list. The record can be modified by the green button and deleted by the red button.
+- This page is the current maintenance list. The record can be modified by the green button and deleted by the red button.
 
 ![image](https://github.com/KartaYu/Machine-Maintenance-Website/blob/main/Pic/List%20of%20Record.png)
 
