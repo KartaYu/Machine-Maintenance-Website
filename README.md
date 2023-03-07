@@ -34,3 +34,4 @@
 - forever
 
 ### System Architecture Figure
+![image](https://github.com/KartaYu/Library-management-website/blob/main/Pic/arch.png)
