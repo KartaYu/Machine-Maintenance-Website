@@ -57,11 +57,3 @@ DELETE   |/machine/delete-student/id     |Delete
 - Email notification
 
 ![image](https://github.com/KartaYu/Machine-Maintenance-Website/blob/main/Pic/Mail%20Notification.png)
-
-### Setup Video Tutorial
-- If you want to carry out testing and demos, you can refer to the following video for the procedures. The commands for manipulating AWS EC2 is included in the command.md file.
-- Tool : MobaXterm, MySQL Workbench
-- [Setup Video](https://tinyurl.com/2ypmpnze)
-
-### Video Demo
-- [Demo Link](https://tinyurl.com/2p897k5u)
